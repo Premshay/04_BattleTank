@@ -80,9 +80,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-
-/Content/StarterContent/Audio
-/Content/StarterContent/Maps
-/Content/StarterContent/Textures
-/Content/StarterContent/HDRI
-/KiteDemo
+# 3D assets and more folders
+Content/StarterContent/Audio
+Content/StarterContent/Maps
+Content/StarterContent/Textures
+Content/StarterContent/HDRI
+Content/KiteDemo/*
