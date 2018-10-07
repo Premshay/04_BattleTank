@@ -1,8 +1,12 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Visual Studio 2015 database file
+# Visual Studio Generated file
 *.VC.db
+*.suo
+*.VC.opendb
+*.sln
+
 
 # Compiled Object files
 *.slo
@@ -75,3 +79,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+/Content/StarterContent/Audio
+/Content/StarterContent/Maps
+/Content/StarterContent/Textures
+/Content/StarterContent/HDRI
+/KiteDemo
