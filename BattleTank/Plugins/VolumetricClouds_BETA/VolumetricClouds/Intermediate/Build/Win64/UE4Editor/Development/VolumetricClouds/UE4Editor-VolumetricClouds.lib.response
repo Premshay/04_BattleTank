@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-VolumetricClouds.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Udemy\Unreal_CPP_Course\Section_04_BattleTank\BattleTank\Intermediate\Build\Win64\BattleTankEditor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"G:\Udemy\Unreal_CPP_Course\Section_04_BattleTank\BattleTank\Plugins\VolumetricClouds_BETA\VolumetricClouds\Intermediate\Build\Win64\UE4Editor\Development\VolumetricClouds\Module.VolumetricClouds.cpp.obj"
+"G:\Udemy\Unreal_CPP_Course\Section_04_BattleTank\BattleTank\Plugins\VolumetricClouds_BETA\VolumetricClouds\Intermediate\Build\Win64\UE4Editor\Development\VolumetricClouds\Module.VolumetricClouds.gen.cpp.obj"
+"G:\Udemy\Unreal_CPP_Course\Section_04_BattleTank\BattleTank\Plugins\VolumetricClouds_BETA\VolumetricClouds\Intermediate\Build\Win64\UE4Editor\Development\VolumetricClouds\PCLaunch.rc.res"
+/OUT:"G:\Udemy\Unreal_CPP_Course\Section_04_BattleTank\BattleTank\Plugins\VolumetricClouds_BETA\VolumetricClouds\Intermediate\Build\Win64\UE4Editor\Development\VolumetricClouds\UE4Editor-VolumetricClouds.lib"
